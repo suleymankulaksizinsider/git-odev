@@ -1,2 +1,4 @@
 ödev a ilk sürüm
 ödev b deneme
+Master branch karışmama
+
